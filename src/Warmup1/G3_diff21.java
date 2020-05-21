@@ -12,7 +12,7 @@ class Diff21 {
     }
 }
 
-public class g3_diff21 {
+public class G3_diff21 {
     public static void main(String[] args) {
         Diff21 diff21 = new Diff21();
         System.out.println(diff21.diff21(-1));
